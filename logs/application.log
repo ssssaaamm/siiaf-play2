@@ -1,0 +1,4 @@
+2016-11-13 10:13:27,708 [INFO] from application in ForkJoinPool-1-worker-1 - Creating Pool for datasource 'default'
+2016-11-13 10:13:29,048 [INFO] from play.api.db.DefaultDBApi in ForkJoinPool-1-worker-1 - Database [default] connected at jdbc:mysql://localhost/siiaf
+2016-11-13 10:13:32,838 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2016-11-13T16:13:32.833Z
+2016-11-13 10:13:33,905 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
